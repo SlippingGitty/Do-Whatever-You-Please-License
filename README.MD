@@ -34,7 +34,7 @@ WTFPL has a clause that [requries you to change the name of the license if modif
 
 __Why use this over MIT?__
 
-MIT requires the same restrictions as this license, and also allows the same permisions. However, MIT also specifies [that the copyright owner is not held liable (in other words, lacks a warranty)](https://tldrlegal.com/license/mit-license) for any issues a user or developer may face. This license opens the door for adding your own warranty if deemed necessary.
+MIT requires the same restrictions as this license and allows the same permisions. However, MIT also specifies [that the copyright owner is not held liable (in other words, lacks a warranty)](https://tldrlegal.com/license/mit-license) for any issues a user or developer may face. This license opens the door for adding your own warranty if deemed necessary.
 
 __Why use this over the Unlicense?__
 
